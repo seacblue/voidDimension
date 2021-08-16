@@ -1,0 +1,4 @@
+﻿进入 save 文件夹中，save1.txt 即为你的存档文件。
+将一个版本的存档文件放入另一个版本的 save 文件夹中，重新启动 VoidDimensionRemake.exe 即完成存档覆盖。
+
+seac_blue 预祝您游戏愉快！

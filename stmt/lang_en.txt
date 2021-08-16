@@ -1,0 +1,313 @@
+top_1:You have made 
+top_2: void points.
+top_3:You are getting 
+top_4: void points per sec.
+top_5:You have 
+top_6: anti-void points.
+top_7:The amount of 1st generator is capped at 
+top_8:Your max amount of void points in C8 is 
+top_9: infinity power, translated to 
+top_10: multiplier to all normal generators.
+top_11: infinity power per sec.
+top_inf_name:Go infinity.
+top_inf_info1:Get 
+top_inf_info2: IP.
+top_inf_info3:Gain 
+top_inf_info4: void points to go infinity.
+
+void_point:Void Points
+dim_1:First Generator
+dim_2:Second Generator
+dim_3:Third Generator
+dim_4:Fourth Generator
+dim_5:Fifth Generator
+dim_6:Sixth Generator
+
+infdim_1:First Inf. Gen.
+infdim_2:Second Inf. Gen.
+infdim_3:Third Inf. Gen.
+infdim_4:Fourth Inf. Gen.
+infdim_5:Fifth Inf. Gen.
+infdim_6:Sixth Inf. Gen.
+
+dim_max:Buy Max (M)
+
+dim_collapse_name:Generator Collapse
+dim_slow_collapse_name:Slow Generator Collapse
+dim_distant_collapse_name:Distant Generator Collapse
+dim_collapse_info1:Clear your generator progress, but gives all generators a 
+dim_collapse_info2: bonus.
+dim_collapse_req: 6th Gen.
+
+dim_pace_name:Void Pace
+dim_pace_info1:Clear your generator progress and Generator Collapse, but gives Generator Collapse a 
+dim_pace_info2: bonus.
+
+menu_1: Dimensions
+menu_2: Options
+menu_3: Statistics
+menu_4: Achievements
+menu_5: Challenges
+menu_6: Infinity
+
+menu_1_1: Normal
+menu_1_2: Infinity
+
+menu_3_1: General
+menu_3_2: Challenge
+menu_3_3: Inf. Challenge
+
+menu_5_1: Challenge
+menu_5_2: Inf. Challenge
+
+menu_6_1: Upgrades
+menu_6_2: Automation
+menu_6_3: Break Infinity
+menu_6_4: Void Light
+menu_6_5: Anti-void Electron
+
+stat_1:You have played 
+stat_2:You have Generator Collapsed 
+stat_3:You have Infinited 
+stat_4:since last Infinite
+stat_5:Your fastest Infinite time is 
+stat_6:You have Void Paced 
+stat_c_1:The fastest time of each challenge:
+stat_c_2:The fastest time of each infinity challenge:
+
+ach_name_1:You gotta start somewhere
+ach_info_1:Buy a First Generator
+ach_name_2:180 degrees to 9
+ach_info_2:Buy a Sixth Generator
+ach_name_3:That's a lot!
+ach_info_3:Have 1.00e12 Void Points
+ach_name_4:Go Infinity
+ach_info_4:Go Infinity once.||Reward: Start with 100 Void Points.
+ach_name_5:First step
+ach_info_5:Complete a challenge.
+ach_name_6:Long challenge era
+ach_info_6:Complete Challenge 4.||Reward: Better Challenge 1 Reward.
+ach_name_7:This is not antimatter dimensions right?
+ach_info_7:Complete Challenge 5.
+ach_name_8:4 + 6 = 8
+ach_info_8:Complete Challenge 8.||Reward: Start with 2e6 Void Points in challenge.
+ach_name_9:Real infinity
+ach_info_9:Have 1.79e308 Void Points
+ach_name_10:Level up!
+ach_info_10:Buy BreakUpg 3.
+ach_name_11:Wait, this challenge permits six?
+ach_info_11:Buy a sixth generator in Challenge 7.
+ach_name_12:It takes a lot
+ach_info_12:Have 1e80 void points in Challenge 8.
+ach_name_13:Erase
+ach_info_13:Complete Infinity Challenge 1.
+ach_name_14:That's a lot, again!
+ach_info_14:Have 1.00e12 Infinity Power.
+ach_name_15:This is antimatter dimensions completely.
+ach_info_15:Complete Infinity Challenge 3.||Reward: Multiplier which based on current IP is based on maximum IP now.
+ach_name_16:This achievement does not exist
+ach_info_16:Have 9.99e999 void points.||Reward: Void Points gain a muliplier based on itself.
+ach_name_17:1437
+ach_info_17:Have 1.00e1437 void points.
+ach_name_18:Baby step, giant step
+ach_info_18:Perform a Void Pace.
+ach_name_19:Does it waste time?
+ach_info_19:Complete Infinity Challenge 5.
+ach_name_20:I really don't want to do it again
+ach_info_20:Complete Infinity Challenge 8.||Reward: After completing Challenge 4, automatically complete Challenge 8.
+ach_name_21:God said...
+ach_info_21:Start producing Void Light.
+ach_name_22:Invincibly level up!
+ach_info_22:Buy LightUpg 3.
+ach_name_23:Real infinity again
+ach_info_23:Have 1.79e308 Void Points in Challenge 8
+ach_name_24:Fast but not so fast
+ach_info_24:Void Light spread at least 50cm per second.
+ach_name_25:Go to electron
+ach_info_25:Have 1 Free Electron
+ach_name_26:The third dimension
+ach_info_26:Have 3 Electron
+ach_name_27:That's a lot of infinities
+ach_info_27:Infinited 1e8 times
+ach_name_28:Wake up
+ach_info_28:Go Fantasy
+
+cha:Challenge 
+cha_intro1:Click a challenge once to challenge it, click again to quit.
+cha_intro2:Enter a challenge will force a rewardless infinity.
+cha_1:Multiplier of 1st and 2nd Generator is capped at 1x||Reward: 1st and 2nd Generator gain a multiplier based on itself||Currently: 
+cha_2:Multiplier per generator is useless, the reward of 1st challenge is also useless||Reward: Multiplier per generator is 5%% stronger
+cha_3:The cost of generators are greatly powered||Reward: The cost of generators are slightly reduced
+cha_4:There are only 1st, 2nd, and 3rd Generator, but the reward of 1st challenge is empowered||Reward: Unlock new infinity upgrades
+cha_5:There are anti-void point which divides void point gain||Reward: 5th and 6th Generator gain a multiplier base on itself||Currently: 
+cha_6:Amount of 1st generator is capped at 66666, but rises according to 2nd generator||Reward: Increase Generator Collapse multiplier greatly||2.5x -> 2.8x
+cha_7:3rd to 6th generator costs two generator before it, multiplier of 1st gen. is capped at 1x||Reward: Increase the multiplier for buying Generators greatly||2.2x -> 2.4x
+cha_8:Challenge 4,6 are all activated, you start with 2000 void point, increase exponent of Upg 11,12,13,14||Reward: Unlock Break Infinity and Automation, exponent of Upg 11,12,13,14 rises
+
+infcha_need1:Need 
+infcha_need2: Void Points to unlock this challenge.
+infcha:Infinity Challenge 
+infcha_goal:Goal: 
+infcha_1:There is no reward from inf. power, buying gen. will erase all gen. below||Reward: Infinity power uses a better formula
+infcha_2:Only infinity power boosts generator||Reward: IP-gaining uses a better formula
+infcha_3:There are anti-void point which divides void point gain||Reward: Upg 4,5,6 use a better formula, interval of all automation below 3 ticks updates to 1 tick.
+infcha_4:Whenever you buy generator, everything else of lesser cost will increase to its next cost step||Reward: Infinity generator are more powerful
+infcha_5:All boost from Upgrades and Breaking Upgrades are useless||Reward: 1st Inf. Gen. gain a 100x boost
+infcha_6:The amount of void point is ^0.1||Reward: The amount of void point is ^1.035
+infcha_7:Amount of all generator is capped at 7777||Reward: The cost grow of void pace is better, x1e200 -> x1e170
+infcha_8:Infinity Challenge 5,6 are all activated||Reward: IP gain a x31.4159 boost
+
+reset:Returning to the start of Generator Collapse
+
+IP:IP
+inf_short_intro:Hold Shift to see ID of upgrades.
+infupg_short:Upg 
+infbupg_short:BreakUpg 
+
+infupg_1:Normal generators gain a 2x multiplier
+infupg_2:Increase the multiplier for buying Generators||2x -> 2.2x
+infupg_3:Void Points gain a multiplier based on time played||Currently: 
+infupg_4:First and Sixth Generator gain a multiplier based on infinitied||Currently: 
+infupg_5:Second and Fifth Generator gain a multiplier based on infinitied||Currently: 
+infupg_6:Third and Fourth Generator gain a multiplier based on infinitied||Currently: 
+infupg_7:Increase Generator Collapse multiplier||2x -> 2.5x
+infupg_8:You start with a Generator Collapse
+infupg_9:Unlock Challenges
+infupg_10:Normal generators gain a 3x multiplier, multiplied with Upgrade 1
+infupg_11:VP gain a multiplier based on unspent IP (x^
+infupg_11_x:)||Currently: 
+infupg_12:First and Sixth Gen. gain a multiplier based on unspent IP (x^
+infupg_13:Second and Fifth Gen. gain a multiplier based on unspent IP (x^
+infupg_14:Third and Fourth Gen. gain a multiplier based on unspent IP (x^
+infupg_15:Unlock four new challenges
+infupg_rebuyable:Multiply IP gain from all sources by 2||Currently: 
+
+infbupg_1:All gen. gain a multiplier based on your current void points||Currently: 
+infbupg_2:All gen. gain a multiplier based on your max void points in Challenge 8||Currently: 
+infbupg_3:Exponent of Upg 11 rises||1.15 -> 1.23
+infbupg_4:Exponent of Upg 12,13,14 rises||0.80 -> 1.10
+infbupg_5:Increase Generator Collapse multiplier||2.8x -> 4.0x
+infbupg_6:Unlock Void Light
+infbupg_rebuyable:Reduce the cost grow of generators||Currently: 
+infbupg_unlock:Unlock Infinity Generator
+
+inf_vl:Void Light
+inf_vl_sac1:Sacrifice 
+inf_vl_sac2:%% of your IP (
+inf_vl_sac3:) to gain 
+inf_vl_sac4: Light Speed
+inf_vl_speed:The Speed of Light is 
+inf_vl_mile:Void Light has been spread 
+inf_vl_sac:Sacrifice IP
+
+inf_vl_upg:LightUpg 
+inf_vl_upg1:Exponent of Upg 11 rises||1.23 -> 2.45
+inf_vl_upg2:Generator Collapse no longer reset generators
+inf_vl_upg3:Void Light boost IP gain||Currently: 
+inf_vl_upg4:Void Light boost mult per bought Inf. Dim.||Currently: 
+inf_vl_upg5:Generator Collapse Autobuyer always buy max
+inf_vl_upg6:Gain 100%% of max IP speed every second, unlock Electron||Currently: 
+inf_vl_upg7:Slow down begin value of Slow Generator Collapse||75 -> 80
+inf_vl_upg8:Infinity generators gain a 5x multiplier
+inf_vl_upg9:Even generators boost odd generators||Currently: 
+inf_vl_upg10:gugugu
+inf_vl_upg11:gugugu
+inf_vl_upg12:Sacrifice IP don't reduce IP, and automatically scarifice IP
+
+inf_ave_free:Free E
+inf_ave_pos:Pos. E
+inf_ave_neg:Neg. E
+inf_ave_nextfree1:Need 
+inf_ave_nextfree2: Void Points until next Free Electron
+
+inf_ave_ms:EleMilestone 
+
+inf_ave_ms1:Infinity Time gain multiplier based on total electron||Currently: 
+inf_ave_ms2:Void Light Speed gain multiplier based on total electron||Currently: 
+inf_ave_ms3:The amount of Positive Electron boost LightUpg 3||Currently: 
+inf_ave_ms4:The amount of Negative Electron boost exponent of Upg 12,13,14||1.10 -> 
+inf_ave_ms5:Gain 1e15x more void points
+inf_ave_ms6:Unlock Fantasy
+
+auto_1:1st Generator Autobuyer
+auto_2:2nd Generator Autobuyer
+auto_3:3rd Generator Autobuyer
+auto_4:4th Generator Autobuyer
+auto_5:5th Generator Autobuyer
+auto_6:6th Generator Autobuyer
+auto_7:Generator Collapse Autobuyer
+auto_8:Infinity Autobuyer
+auto_9:Void Pace Autobuyer
+auto_interval:Interval: 
+auto_setting_1:Active when Gen. Collapse less than
+auto_setting_2:Active when can gain IP more than
+auto_setting_3:Active when Void Pace less than
+
+auto_allenable:All enable
+auto_alldisable:All disable
+
+opt_1:Save
+opt_2:Load
+opt_3:Language
+opt_4:FPS
+opt_5:Sleep mode
+opt_6:Manual
+
+opt_sleep_mode:In Sleep mode, the game will active normally, but cannot print on screen.||Press the button below to unlock Sleep mode.
+opt_unlock_sleep:Unlock Sleep mode
+
+opt_lang_ch:ÖÐÎÄ
+opt_lang_en:English
+
+game_save:Game saved
+game_load:Game loaded
+updated:Value updated
+
+mult_x:x
+cost_x:Cost: 
+req_x:Require: 
+second:second
+seconds:seconds
+minute:minute
+minutes:minutes
+hour:hour
+hours:hours
+day:day
+days:days
+dot:.
+space: 
+time:time
+times:times
+comma:,
+colon::
+yes:Yes
+no:No
+complete:C
+enable:Enable
+disable:Disable
+pers:/s
+perm:/m
+perh:/h
+sec_short:s
+min_short:m
+hour_short:h
+tick:tick
+ticks:ticks
+lef_bracket:(
+rig_bracket:)
+FPS:FPS
+cm:cm
+m:m
+km:km
+ly:ly
+ps:/s
+softcapped:(softcapped)
+hardcapped:(hardcapped)
+
+page_left:Page Left
+page_right:Page Right
+pl_short:<
+pr_short:>
+
+end_game:Current endgame: Unlock Fantasy
+version:Version 0.2.8.3
